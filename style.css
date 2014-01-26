@@ -1,15 +1,15 @@
 h1{
-	color: FloralWhite;
+    color: FloralWhite;
 }
 body{
-	color: FloraWhite;
+    color: FloraWhite;
     background-color: Black;
 }
 p, ul, li, div{
-	color: FloraLWhite;
+    color: FloraLWhite;
 }
 img{
-	max-width:480px;
+    max-width:480px;
 }
 #picture_div{
     position:absolute;
