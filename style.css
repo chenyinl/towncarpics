@@ -1,0 +1,23 @@
+h1{
+	color: FloralWhite;
+}
+body{
+	color: FloraWhite;
+    background-color: Black;
+}
+p, ul, li, div{
+	color: FloraLWhite;
+}
+img{
+	max-width:480px;
+}
+#picture_div{
+    position:absolute;
+    top:100px;
+    left:250px;
+    width: 500px;
+}
+li { 
+    cursor: pointer; 
+    cursor: hand; 
+}
